@@ -48,7 +48,7 @@ I'm a cybersecurity and software engineering enthusiast currently studying **IT 
         <a href="https://github.com/SAID-SWIAAID">
             <img alt="Link para o meu GitHub" src="https://img.shields.io/github/followers/SAID-SWIAAID?style=for-the-badge&labelColor=7E3ACE&color=181717">
         </a>
-        <a href="https://badges.strrl.dev"><img alt="Repositórios no GitHub" src="https://badges.strrl.dev/repos/badie16?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="Commits de  hoje" src="https://badges.strrl.dev/commits/daily/badie16?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits este mês" src="https://badges.strrl.dev/commits/monthly/badie16?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <a href="https://badges.strrl.dev"><img alt="Repositórios no GitHub" src="https://badges.strrl.dev/repos/SAID-SWIAAID?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <a href="https://badges.strrl.dev"><img alt="Commits de  hoje" src="https://badges.strrl.dev/commits/daily/SAID-SWIAAID?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <a href="https://badges.strrl.dev"><img alt="commits este mês" src="https://badges.strrl.dev/commits/monthly/SAID-SWIAAID?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
 </div>
