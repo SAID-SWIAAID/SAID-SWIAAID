@@ -1,54 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Said Almanani 👋</h1>
+<p align="center"><strong>Cybersecurity Engineering Student · IT Security & Digital Trust · ENSIASD Taroudant</strong></p>
+<p align="center">SOC Automation · Threat Detection · DevSecOps · Security Governance</p>
 
-<h1> Hi there, I'm ALMANANI SAID! 👋</h1>
-
-## 🚀 About Me
-I'm a cybersecurity and software engineering enthusiast currently studying **IT Security & Digital Trust** at **ENSIASD**. My passion lies in building secure, efficient systems, exploring new technologies, and constantly improving my skills.
-
-## 💻 Tech Stack
-- **Languages**: JavaScript, TypeScript, Python, Java, C++, C, PHP, SQL, Assembly
-- **Front-end**: React, React Native (Expo), Tailwind CSS, Bootstrap
-- **Back-end**: Node.js, Express.js, PHP , Python(Flask)
-- **Databases**: MySQL, SQLite, PostgreSQL
-- **Tools & Other**: Git, GitHub, Unix, Shell scripting, Networking, Figma
-
-
-<h2>👨‍💻 Languages and Frameworks I'm studying</h2>
-<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code><img title="C" alt="linguagem c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code><img title="java" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
-<code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-<code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
-</br></br>
-
-<h2>🎲 Tools that I use every day</h2>
-<code> <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
-<code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
-<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></code>
-<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
-<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
-<code> <img title="Yarn" alt="yarn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /></code>
-<code> <img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
-<code><img title="C" alt="linguagem c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" /></code>
-<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
-<code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
-</br></br>
-<h2>⚡ Github Stats</h2>
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAID-SWIAAID&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAID-SWIAAID&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<p align="center">
+  <a href="https://said-almanani.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/said-almanani/">LinkedIn</a> ·
+  <a href="mailto:saidalmanani04@gmail.com">Email</a>
 </p>
-<div>
-        <a href="https://github.com/SAID-SWIAAID">
-            <img alt="Link para o meu GitHub" src="https://img.shields.io/github/followers/SAID-SWIAAID?style=for-the-badge&labelColor=7E3ACE&color=181717">
-        </a>
-        <a href="https://badges.strrl.dev"><img alt="Repositórios no GitHub" src="https://badges.strrl.dev/repos/SAID-SWIAAID?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="Commits de  hoje" src="https://badges.strrl.dev/commits/daily/SAID-SWIAAID?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits este mês" src="https://badges.strrl.dev/commits/monthly/SAID-SWIAAID?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-</div>
+
+About me
+I'm an engineering student in IT Security & Digital Trust at ENSIASD Taroudant, Morocco. I build security tools that connect detection, automation, and practical risk management, drawing on a background in software development.
+During my SOC automation internship at EXIA Technologies, I worked with Wazuh and Shuffle to build incident-response workflows across Linux and Windows, with threat intelligence enrichment through AbuseIPDB and VirusTotal.
+- 🔎 Interested in blue team operations, log analysis, and incident response.
+- ⚙️ Building automated security workflows and integrating security into CI/CD.
+- 📋 Exploring ISO 27001/27002 auditing, risk analysis, and third-party security assessment.
+- 🎓 Seeking a six-month final-year internship (PFE) starting in February 2027.
+Selected projects
+Project	What I built	Technologies & concepts
+SOC Automation — Wazuh + Shuffle	Detection and response workflows for six scenarios across Linux and Windows, including brute-force attacks, malicious indicators, and file integrity monitoring. Includes enrichment, allowlists, dry-run mode, and rollback workflows.	Wazuh, Shuffle, Bash, AbuseIPDB, VirusTotal
+Game of Auditors	A multiplayer audit simulator where users collect evidence, assess controls, and generate reports in a virtual organization.	ISO 27001/27002, TypeScript, Phaser 3, Colyseus, React/Redux
+HDFS Log Anomaly Detection	Anomaly detection in distributed-system logs, with alerts forwarded into a SOC pipeline.	Python, scikit-learn, Isolation Forest, One-Class SVM
+VendorShield	A portal for assessing supplier security posture, identifying nonconformities, and producing risk reports.	Third-party risk, ISO 27001, EBIOS
+DevSecOps CI/CD Pipeline	Automated static and dynamic security testing integrated into CI/CD workflows.	Jenkins, GitLab CI, SonarQube, OWASP ZAP
+Active Directory Attack Path Audit	A study of attack paths and privilege-escalation risks, with documented remediation recommendations.	BloodHound, PowerView, Active Directory, Kerberos
+
+
+Explore my projects on my portfolio →
+Technical toolkit
+Area	Technologies & practices
+SOC & defensive security	Wazuh, Shuffle SOAR, log analysis, incident response, Wireshark, Linux and Windows hardening
+Security testing	Nmap, Burp Suite, OWASP ZAP, BloodHound, PowerView
+DevSecOps	Docker, Jenkins, GitLab CI, SonarQube, SAST/DAST
+Governance & risk	ISO 27001/27002, EBIOS, security policies, audit reporting
+Programming & automation	Python, Bash, JavaScript, TypeScript, SQL, Java, C/C++
+Web development	React, Node.js, Express, Flask, PHP
+Databases & collaboration	PostgreSQL, MySQL, SQLite, Git, GitHub
+
+
+Experience
+EXIA Technologies — SOC Automation Internship
+July–August 2026 · Casablanca, Morocco
+Worked on a Wazuh/Shuffle SOC, automated response playbooks, threat intelligence enrichment, and response safeguards.
+MARSOUSS Technologies — Web & Mobile Development Internship
+July–August 2025
+Developed application features with Firebase and Firestore, with a focus on secure authentication and session management.
+Let's connect
+I'm interested in internship opportunities involving SOC, security automation, DevSecOps, or cybersecurity governance, where I can contribute to concrete projects and learn from experienced teams.
+📫 saidalmanani04@gmail.com
+🌐 Portfolio · LinkedIn
